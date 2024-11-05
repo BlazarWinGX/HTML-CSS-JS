@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-web
+入门学习代码汇总。
